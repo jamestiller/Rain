@@ -3,6 +3,8 @@ Rain Simulator 2016, but for music and stuff and whatever
 
 First Commit is a result of [this tutorial](http://www.martin-finke.de/blog/articles/audio-plugins-001-introduction/) by Martin Finke, but will be heavily edited.
 
+Uses the following libraries and licenses:
+
 --------------------------------------------
 
 WDL / IPlug - Oli Larkin Edition
