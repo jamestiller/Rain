@@ -1,1 +1,0 @@
-/Applications/Rain.app
