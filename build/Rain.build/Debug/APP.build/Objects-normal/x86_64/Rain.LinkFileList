@@ -2,7 +2,6 @@
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-dlg.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-gdi.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/SquareWave.o
-/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/SinWave.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/Filter.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-ini.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-kb.o
@@ -11,6 +10,7 @@
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-misc.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell-wnd.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swell.o
+/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/SinWave.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/swellappmain.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/RtAudio.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/RtMidi.o
@@ -20,8 +20,9 @@
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IWave.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/Hosts.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IGraphicsMac.o
-/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IGraphics.o
+/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/SawWave.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/TriangleWave.o
+/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IGraphics.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IGraphicsCarbon.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/IGraphicsCocoa.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/Log.o
@@ -38,4 +39,3 @@
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/Voice.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/VoiceManager.o
 /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/Oscillator.o
-/Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/build/Rain.build/Debug/APP.build/Objects-normal/x86_64/SawWave.o

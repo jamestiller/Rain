@@ -357,46 +357,46 @@
 		5BF127F418F45E7D009440AD /* VoiceManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5BF127ED18F45E7D009440AD /* VoiceManager.cpp */; };
 		5BF127F518F45E7D009440AD /* VoiceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5BF127EE18F45E7D009440AD /* VoiceManager.h */; };
 		5BF127F618F45E7D009440AD /* VoiceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5BF127EE18F45E7D009440AD /* VoiceManager.h */; };
-		7CBE899A1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE899B1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE899C1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE899D1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE899E1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE899F1C7FBA6200B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89981C7FBA6200B63E47 /* IWave.cpp */; };
-		7CBE89A01C7FBA6200B63E47 /* IWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89991C7FBA6200B63E47 /* IWave.hpp */; };
-		7CBE89A11C7FBA6200B63E47 /* IWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89991C7FBA6200B63E47 /* IWave.hpp */; };
-		7CBE89A41C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89A51C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89A61C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89A71C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89A81C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89A91C7FC37400B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89A21C7FC37400B63E47 /* SinWave.cpp */; };
-		7CBE89AA1C7FC37400B63E47 /* SinWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89A31C7FC37400B63E47 /* SinWave.hpp */; };
-		7CBE89AB1C7FC37400B63E47 /* SinWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89A31C7FC37400B63E47 /* SinWave.hpp */; };
-		7CBE89AE1C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89AF1C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89B01C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89B11C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89B21C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89B31C7FC72300B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */; };
-		7CBE89B41C7FC72300B63E47 /* SawWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89AD1C7FC72300B63E47 /* SawWave.hpp */; };
-		7CBE89B51C7FC72300B63E47 /* SawWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89AD1C7FC72300B63E47 /* SawWave.hpp */; };
-		7CBE89B81C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89B91C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89BA1C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89BB1C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89BC1C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89BD1C7FC82400B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */; };
-		7CBE89BE1C7FC82400B63E47 /* SquareWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89B71C7FC82400B63E47 /* SquareWave.hpp */; };
-		7CBE89BF1C7FC82400B63E47 /* SquareWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89B71C7FC82400B63E47 /* SquareWave.hpp */; };
-		7CBE89C21C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C31C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C41C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C51C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C61C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C71C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */; };
-		7CBE89C81C7FC8CD00B63E47 /* TriangleWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89C11C7FC8CD00B63E47 /* TriangleWave.hpp */; };
-		7CBE89C91C7FC8CD00B63E47 /* TriangleWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89C11C7FC8CD00B63E47 /* TriangleWave.hpp */; };
+		7CBE89D41C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89D51C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89D61C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89D71C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89D81C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89D91C7FCE9900B63E47 /* IWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */; };
+		7CBE89DA1C7FCE9900B63E47 /* IWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CB1C7FCE9900B63E47 /* IWave.hpp */; };
+		7CBE89DB1C7FCE9900B63E47 /* IWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CB1C7FCE9900B63E47 /* IWave.hpp */; };
+		7CBE89DC1C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89DD1C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89DE1C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89DF1C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89E01C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89E11C7FCE9900B63E47 /* SawWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */; };
+		7CBE89E21C7FCE9900B63E47 /* SawWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CD1C7FCE9900B63E47 /* SawWave.hpp */; };
+		7CBE89E31C7FCE9900B63E47 /* SawWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CD1C7FCE9900B63E47 /* SawWave.hpp */; };
+		7CBE89E41C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89E51C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89E61C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89E71C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89E81C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89E91C7FCE9900B63E47 /* SinWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */; };
+		7CBE89EA1C7FCE9900B63E47 /* SinWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CF1C7FCE9900B63E47 /* SinWave.hpp */; };
+		7CBE89EB1C7FCE9900B63E47 /* SinWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89CF1C7FCE9900B63E47 /* SinWave.hpp */; };
+		7CBE89EC1C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89ED1C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89EE1C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89EF1C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89F01C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89F11C7FCE9900B63E47 /* SquareWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */; };
+		7CBE89F21C7FCE9900B63E47 /* SquareWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89D11C7FCE9900B63E47 /* SquareWave.hpp */; };
+		7CBE89F31C7FCE9900B63E47 /* SquareWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89D11C7FCE9900B63E47 /* SquareWave.hpp */; };
+		7CBE89F41C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89F51C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89F61C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89F71C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89F81C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89F91C7FCE9900B63E47 /* TriangleWave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */; };
+		7CBE89FA1C7FCE9900B63E47 /* TriangleWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89D31C7FCE9900B63E47 /* TriangleWave.hpp */; };
+		7CBE89FB1C7FCE9900B63E47 /* TriangleWave.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 7CBE89D31C7FCE9900B63E47 /* TriangleWave.hpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -790,16 +790,16 @@
 		5BF127E418F45DDB009440AD /* Voice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Voice.h; sourceTree = "<group>"; };
 		5BF127ED18F45E7D009440AD /* VoiceManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VoiceManager.cpp; sourceTree = "<group>"; };
 		5BF127EE18F45E7D009440AD /* VoiceManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VoiceManager.h; sourceTree = "<group>"; };
-		7CBE89981C7FBA6200B63E47 /* IWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IWave.cpp; sourceTree = "<group>"; };
-		7CBE89991C7FBA6200B63E47 /* IWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = IWave.hpp; sourceTree = "<group>"; };
-		7CBE89A21C7FC37400B63E47 /* SinWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SinWave.cpp; sourceTree = "<group>"; };
-		7CBE89A31C7FC37400B63E47 /* SinWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = SinWave.hpp; sourceTree = "<group>"; };
-		7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SawWave.cpp; sourceTree = "<group>"; };
-		7CBE89AD1C7FC72300B63E47 /* SawWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = SawWave.hpp; sourceTree = "<group>"; };
-		7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SquareWave.cpp; sourceTree = "<group>"; };
-		7CBE89B71C7FC82400B63E47 /* SquareWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = SquareWave.hpp; sourceTree = "<group>"; };
-		7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TriangleWave.cpp; sourceTree = "<group>"; };
-		7CBE89C11C7FC8CD00B63E47 /* TriangleWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TriangleWave.hpp; sourceTree = "<group>"; };
+		7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IWave.cpp; path = Oscillators/IWave.cpp; sourceTree = "<group>"; };
+		7CBE89CB1C7FCE9900B63E47 /* IWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = IWave.hpp; path = Oscillators/IWave.hpp; sourceTree = "<group>"; };
+		7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SawWave.cpp; path = Oscillators/SawWave.cpp; sourceTree = "<group>"; };
+		7CBE89CD1C7FCE9900B63E47 /* SawWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = SawWave.hpp; path = Oscillators/SawWave.hpp; sourceTree = "<group>"; };
+		7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SinWave.cpp; path = Oscillators/SinWave.cpp; sourceTree = "<group>"; };
+		7CBE89CF1C7FCE9900B63E47 /* SinWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = SinWave.hpp; path = Oscillators/SinWave.hpp; sourceTree = "<group>"; };
+		7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SquareWave.cpp; path = Oscillators/SquareWave.cpp; sourceTree = "<group>"; };
+		7CBE89D11C7FCE9900B63E47 /* SquareWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = SquareWave.hpp; path = Oscillators/SquareWave.hpp; sourceTree = "<group>"; };
+		7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = TriangleWave.cpp; path = Oscillators/TriangleWave.cpp; sourceTree = "<group>"; };
+		7CBE89D31C7FCE9900B63E47 /* TriangleWave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = TriangleWave.hpp; path = Oscillators/TriangleWave.hpp; sourceTree = "<group>"; };
 		D2F7E65807B2D6F200F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
@@ -1501,16 +1501,16 @@
 		7CBE89951C7FBA1700B63E47 /* Oscillators */ = {
 			isa = PBXGroup;
 			children = (
-				7CBE89981C7FBA6200B63E47 /* IWave.cpp */,
-				7CBE89991C7FBA6200B63E47 /* IWave.hpp */,
-				7CBE89A21C7FC37400B63E47 /* SinWave.cpp */,
-				7CBE89A31C7FC37400B63E47 /* SinWave.hpp */,
-				7CBE89AC1C7FC72300B63E47 /* SawWave.cpp */,
-				7CBE89AD1C7FC72300B63E47 /* SawWave.hpp */,
-				7CBE89B61C7FC82400B63E47 /* SquareWave.cpp */,
-				7CBE89B71C7FC82400B63E47 /* SquareWave.hpp */,
-				7CBE89C01C7FC8CD00B63E47 /* TriangleWave.cpp */,
-				7CBE89C11C7FC8CD00B63E47 /* TriangleWave.hpp */,
+				7CBE89CA1C7FCE9900B63E47 /* IWave.cpp */,
+				7CBE89CB1C7FCE9900B63E47 /* IWave.hpp */,
+				7CBE89CC1C7FCE9900B63E47 /* SawWave.cpp */,
+				7CBE89CD1C7FCE9900B63E47 /* SawWave.hpp */,
+				7CBE89CE1C7FCE9900B63E47 /* SinWave.cpp */,
+				7CBE89CF1C7FCE9900B63E47 /* SinWave.hpp */,
+				7CBE89D01C7FCE9900B63E47 /* SquareWave.cpp */,
+				7CBE89D11C7FCE9900B63E47 /* SquareWave.hpp */,
+				7CBE89D21C7FCE9900B63E47 /* TriangleWave.cpp */,
+				7CBE89D31C7FCE9900B63E47 /* TriangleWave.hpp */,
 			);
 			name = Oscillators;
 			sourceTree = "<group>";
@@ -1526,8 +1526,8 @@
 				4F3AE17C12C0E5E2001FD7A4 /* Rain.h in Headers */,
 				4FF016F7134E14E2001447BA /* mutex.h in Headers */,
 				4FF016F8134E14E2001447BA /* ptrlist.h in Headers */,
-				7CBE89A11C7FBA6200B63E47 /* IWave.hpp in Headers */,
-				7CBE89C91C7FC8CD00B63E47 /* TriangleWave.hpp in Headers */,
+				7CBE89DB1C7FCE9900B63E47 /* IWave.hpp in Headers */,
+				7CBE89FB1C7FCE9900B63E47 /* TriangleWave.hpp in Headers */,
 				5BF127C818F456E9009440AD /* Filter.h in Headers */,
 				4FF016F9134E14E2001447BA /* wdlstring.h in Headers */,
 				5BF127A618F45460009440AD /* GallantSignal.h in Headers */,
@@ -1549,18 +1549,18 @@
 				4F78D94613B63BA50032E0F3 /* IGraphicsMac.h in Headers */,
 				4F78D94913B63BA50032E0F3 /* Containers.h in Headers */,
 				4F78D94A13B63BA50032E0F3 /* Hosts.h in Headers */,
-				7CBE89BF1C7FC82400B63E47 /* SquareWave.hpp in Headers */,
-				7CBE89AB1C7FC37400B63E47 /* SinWave.hpp in Headers */,
+				7CBE89F31C7FCE9900B63E47 /* SquareWave.hpp in Headers */,
 				4F78D95113B63BA50032E0F3 /* IGraphicsCocoa.h in Headers */,
 				4F78D95213B63BA50032E0F3 /* Log.h in Headers */,
 				4F78D95413B63BA50032E0F3 /* IPopupMenu.h in Headers */,
 				5B17582118F43CB1004D19B6 /* MIDIReceiver.h in Headers */,
 				5B17581118F43AF7004D19B6 /* Oscillator.h in Headers */,
-				7CBE89B51C7FC72300B63E47 /* SawWave.hpp in Headers */,
 				4F78D95613B63BA50032E0F3 /* IPlugStructs.h in Headers */,
 				5BF127A418F45460009440AD /* Delegate.h in Headers */,
 				4F78D95A13B63BA50032E0F3 /* IPlug_Prefix.pch in Headers */,
 				4F78D95B13B63BA50032E0F3 /* IParam.h in Headers */,
+				7CBE89EB1C7FCE9900B63E47 /* SinWave.hpp in Headers */,
+				7CBE89E31C7FCE9900B63E47 /* SawWave.hpp in Headers */,
 				4F78D95D13B63BA50032E0F3 /* IMidiQueue.h in Headers */,
 				4F78D95F13B63BA50032E0F3 /* IGraphicsCarbon.h in Headers */,
 				4F78D96013B63BA50032E0F3 /* IGraphics.h in Headers */,
@@ -1579,7 +1579,7 @@
 				4F78DABB13B640620032E0F3 /* IPlugStandalone.h in Headers */,
 				4F78DAB813B640530032E0F3 /* RtAudio.h in Headers */,
 				5BF127A518F45460009440AD /* GallantSignal.h in Headers */,
-				7CBE89C81C7FC8CD00B63E47 /* TriangleWave.hpp in Headers */,
+				7CBE89FA1C7FCE9900B63E47 /* TriangleWave.hpp in Headers */,
 				4F78DAB913B640530032E0F3 /* RtError.h in Headers */,
 				4F78DABA13B640530032E0F3 /* RtMidi.h in Headers */,
 				4F78DAB113B640470032E0F3 /* swell-menugen.h in Headers */,
@@ -1596,10 +1596,11 @@
 				4F78DA8E13B640050032E0F3 /* wdlendian.h in Headers */,
 				5B17581018F43AF7004D19B6 /* Oscillator.h in Headers */,
 				4F78DA8F13B640050032E0F3 /* swell.h in Headers */,
+				7CBE89E21C7FCE9900B63E47 /* SawWave.hpp in Headers */,
 				4F78DA9013B640050032E0F3 /* swell-functions.h in Headers */,
 				4F78DA9113B640050032E0F3 /* swell-internal.h in Headers */,
+				7CBE89F21C7FCE9900B63E47 /* SquareWave.hpp in Headers */,
 				4F78DA9213B640050032E0F3 /* swell-types.h in Headers */,
-				7CBE89BE1C7FC82400B63E47 /* SquareWave.hpp in Headers */,
 				4F78DA9313B640050032E0F3 /* aeffect.h in Headers */,
 				4F78DA9413B640050032E0F3 /* aeffectx.h in Headers */,
 				5BF1279F18F453D6009440AD /* EnvelopeGenerator.h in Headers */,
@@ -1615,17 +1616,16 @@
 				4F78DA9E13B640050032E0F3 /* IGraphicsCocoa.h in Headers */,
 				4F78DA9F13B640050032E0F3 /* Log.h in Headers */,
 				4F78DAA013B640050032E0F3 /* IPopupMenu.h in Headers */,
-				7CBE89B41C7FC72300B63E47 /* SawWave.hpp in Headers */,
 				4F78DAA113B640050032E0F3 /* IPlugStructs.h in Headers */,
 				5BF127EB18F45DDC009440AD /* Voice.h in Headers */,
+				7CBE89EA1C7FCE9900B63E47 /* SinWave.hpp in Headers */,
 				4F78DAA213B640050032E0F3 /* IPlug_Prefix.pch in Headers */,
 				4F78DAA313B640050032E0F3 /* IParam.h in Headers */,
 				4F78DAA413B640050032E0F3 /* IMidiQueue.h in Headers */,
 				4F78DAA513B640050032E0F3 /* IGraphicsCarbon.h in Headers */,
-				7CBE89A01C7FBA6200B63E47 /* IWave.hpp in Headers */,
+				7CBE89DA1C7FCE9900B63E47 /* IWave.hpp in Headers */,
 				4F78DAA613B640050032E0F3 /* IGraphics.h in Headers */,
 				4F3EE94613B65A350097B791 /* IPlugOSDetect.h in Headers */,
-				7CBE89AA1C7FC37400B63E47 /* SinWave.hpp in Headers */,
 				5BF127A318F45460009440AD /* Delegate.h in Headers */,
 				4FDA440F13F3E4F2000B4551 /* IBitmapMonoText.h in Headers */,
 			);
@@ -1983,9 +1983,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7CBE899B1C7FBA6200B63E47 /* IWave.cpp in Sources */,
+				7CBE89D51C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4F20EECB132C69FE0030E34C /* Rain.cpp in Sources */,
-				7CBE89AF1C7FC72300B63E47 /* SawWave.cpp in Sources */,
 				4FD16D1213B634BF001D0217 /* swell-gdi.mm in Sources */,
 				4F78D9BB13B63BA50032E0F3 /* IPlugBase.cpp in Sources */,
 				5BF127C218F456E9009440AD /* Filter.cpp in Sources */,
@@ -2001,11 +2000,12 @@
 				4F78D9C413B63BA50032E0F3 /* IPopupMenu.cpp in Sources */,
 				5B17580B18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
 				4F78D9C813B63BA50032E0F3 /* IParam.cpp in Sources */,
-				7CBE89C31C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
-				7CBE89B91C7FC82400B63E47 /* SquareWave.cpp in Sources */,
+				7CBE89E51C7FCE9900B63E47 /* SinWave.cpp in Sources */,
+				7CBE89F51C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
+				7CBE89ED1C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				5BF1279A18F453D6009440AD /* EnvelopeGenerator.cpp in Sources */,
-				7CBE89A51C7FC37400B63E47 /* SinWave.cpp in Sources */,
 				4F78D9C913B63BA50032E0F3 /* IControl.cpp in Sources */,
+				7CBE89DD1C7FCE9900B63E47 /* SawWave.cpp in Sources */,
 				4F78D9F313B63C6A0032E0F3 /* IPlugVST.cpp in Sources */,
 				4FDA440C13F3E4F2000B4551 /* IBitmapMonoText.cpp in Sources */,
 				5B17581B18F43CB1004D19B6 /* MIDIReceiver.cpp in Sources */,
@@ -2023,26 +2023,26 @@
 				4F78D94713B63BA50032E0F3 /* IPlugStructs.cpp in Sources */,
 				4F78D94B13B63BA50032E0F3 /* Hosts.cpp in Sources */,
 				5B17580D18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
+				7CBE89DF1C7FCE9900B63E47 /* SawWave.cpp in Sources */,
 				4F78D94D13B63BA50032E0F3 /* IGraphicsMac.mm in Sources */,
 				5BF1279C18F453D6009440AD /* EnvelopeGenerator.cpp in Sources */,
 				4F78D94E13B63BA50032E0F3 /* IGraphics.cpp in Sources */,
-				7CBE89A71C7FC37400B63E47 /* SinWave.cpp in Sources */,
+				7CBE89E71C7FCE9900B63E47 /* SinWave.cpp in Sources */,
 				4F78D94F13B63BA50032E0F3 /* IGraphicsCarbon.cpp in Sources */,
-				7CBE89B11C7FC72300B63E47 /* SawWave.cpp in Sources */,
 				5BF127C418F456E9009440AD /* Filter.cpp in Sources */,
 				4F78D95013B63BA50032E0F3 /* IGraphicsCocoa.mm in Sources */,
 				5B17581D18F43CB1004D19B6 /* MIDIReceiver.cpp in Sources */,
 				4F78D95313B63BA50032E0F3 /* Log.cpp in Sources */,
 				4F78D95513B63BA50032E0F3 /* IPopupMenu.cpp in Sources */,
-				7CBE89BB1C7FC82400B63E47 /* SquareWave.cpp in Sources */,
+				7CBE89EF1C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				4F78D95C13B63BA50032E0F3 /* IParam.cpp in Sources */,
 				4F78D96113B63BA50032E0F3 /* IControl.cpp in Sources */,
 				4F78DA0813B63CD90032E0F3 /* IPlugAU.cpp in Sources */,
-				7CBE89C51C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
+				7CBE89F71C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
 				4F78DA0A13B63CD90032E0F3 /* IPlugAU_ViewFactory.mm in Sources */,
 				4FDA440813F3E4F2000B4551 /* IBitmapMonoText.cpp in Sources */,
 				5BF127F218F45E7D009440AD /* VoiceManager.cpp in Sources */,
-				7CBE899D1C7FBA6200B63E47 /* IWave.cpp in Sources */,
+				7CBE89D71C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4F296BDA1678E6C800C0F5C2 /* dfx-au-utilities.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2051,7 +2051,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7CBE89A81C7FC37400B63E47 /* SinWave.cpp in Sources */,
 				4F7F5C4913E95EC8002918FD /* Rain.cpp in Sources */,
 				4F7F5C5013E95EC8002918FD /* swell-gdi.mm in Sources */,
 				4F7F5C5113E95EC8002918FD /* IPlugBase.cpp in Sources */,
@@ -2062,12 +2061,13 @@
 				4F7F5C5613E95EC8002918FD /* IGraphicsCarbon.cpp in Sources */,
 				4F7F5C5713E95EC8002918FD /* IGraphicsCocoa.mm in Sources */,
 				4F7F5C5813E95EC8002918FD /* Log.cpp in Sources */,
-				7CBE899E1C7FBA6200B63E47 /* IWave.cpp in Sources */,
-				7CBE89BC1C7FC82400B63E47 /* SquareWave.cpp in Sources */,
+				7CBE89D81C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4F7F5C5913E95EC8002918FD /* IPopupMenu.cpp in Sources */,
+				7CBE89F01C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				5BF1279D18F453D6009440AD /* EnvelopeGenerator.cpp in Sources */,
 				5BF127E918F45DDC009440AD /* Voice.cpp in Sources */,
 				5B17580E18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
+				7CBE89E01C7FCE9900B63E47 /* SawWave.cpp in Sources */,
 				5BF127C518F456E9009440AD /* Filter.cpp in Sources */,
 				4F7F5C5A13E95EC8002918FD /* IParam.cpp in Sources */,
 				4F7F5C5B13E95EC8002918FD /* IControl.cpp in Sources */,
@@ -2077,11 +2077,11 @@
 				4F7F5CAF13E9607A002918FD /* digicode3.cpp in Sources */,
 				5BF127F318F45E7D009440AD /* VoiceManager.cpp in Sources */,
 				4F7F5CB013E9607A002918FD /* IPlugCustomUI.cpp in Sources */,
+				7CBE89E81C7FCE9900B63E47 /* SinWave.cpp in Sources */,
 				4F7F5CB113E9607A002918FD /* IPlugGroup.cpp in Sources */,
-				7CBE89B21C7FC72300B63E47 /* SawWave.cpp in Sources */,
 				4F7F5CB213E9607A002918FD /* IPlugProcess.cpp in Sources */,
 				4F7F5CB313E9607A002918FD /* IPlugProcessRTAS.cpp in Sources */,
-				7CBE89C61C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
+				7CBE89F81C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
 				4FDA440713F3E4F2000B4551 /* IBitmapMonoText.cpp in Sources */,
 				5B17581E18F43CB1004D19B6 /* MIDIReceiver.cpp in Sources */,
 				4F79A34E146304CD00744AED /* IPlugProcessAS.cpp in Sources */,
@@ -2093,9 +2093,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF127F118F45E7D009440AD /* VoiceManager.cpp in Sources */,
-				7CBE89B01C7FC72300B63E47 /* SawWave.cpp in Sources */,
 				4F9828B6140A9EB700F3FCC1 /* Rain.cpp in Sources */,
-				7CBE89C41C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
+				7CBE89DE1C7FCE9900B63E47 /* SawWave.cpp in Sources */,
+				7CBE89F61C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
 				4F9828B7140A9EB700F3FCC1 /* swell-gdi.mm in Sources */,
 				4F9828B8140A9EB700F3FCC1 /* IPlugBase.cpp in Sources */,
 				4F9828B9140A9EB700F3FCC1 /* IPlugStructs.cpp in Sources */,
@@ -2107,20 +2107,19 @@
 				4F9828BE140A9EB700F3FCC1 /* IGraphicsCocoa.mm in Sources */,
 				4F9828BF140A9EB700F3FCC1 /* Log.cpp in Sources */,
 				4F9828C0140A9EB700F3FCC1 /* IPopupMenu.cpp in Sources */,
-				7CBE899C1C7FBA6200B63E47 /* IWave.cpp in Sources */,
+				7CBE89D61C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4F9828C1140A9EB700F3FCC1 /* IParam.cpp in Sources */,
 				5BF1279B18F453D6009440AD /* EnvelopeGenerator.cpp in Sources */,
 				5BF127C318F456E9009440AD /* Filter.cpp in Sources */,
 				4F9828C2140A9EB700F3FCC1 /* IControl.cpp in Sources */,
 				4F9828C3140A9EB700F3FCC1 /* IBitmapMonoText.cpp in Sources */,
 				4F9828C4140A9EB700F3FCC1 /* IPlugVST3.cpp in Sources */,
-				7CBE89BA1C7FC82400B63E47 /* SquareWave.cpp in Sources */,
+				7CBE89EE1C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				4F9828C5140A9EB700F3FCC1 /* memorystream.cpp in Sources */,
 				4F9828C6140A9EB700F3FCC1 /* pluginview.cpp in Sources */,
 				4F9828C7140A9EB700F3FCC1 /* macmain.cpp in Sources */,
 				4F9828C8140A9EB700F3FCC1 /* pluginfactoryvst3.cpp in Sources */,
 				4F9828C9140A9EB700F3FCC1 /* vstaudioeffect.cpp in Sources */,
-				7CBE89A61C7FC37400B63E47 /* SinWave.cpp in Sources */,
 				4F9828CA140A9EB700F3FCC1 /* vstbus.cpp in Sources */,
 				4F9828CB140A9EB700F3FCC1 /* vstcomponent.cpp in Sources */,
 				4F9828CC140A9EB700F3FCC1 /* vstcomponentbase.cpp in Sources */,
@@ -2128,6 +2127,7 @@
 				4F9828CF140A9EB700F3FCC1 /* vstnoteexpressiontypes.cpp in Sources */,
 				4F9828D0140A9EB700F3FCC1 /* vstparameters.cpp in Sources */,
 				5B17580C18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
+				7CBE89E61C7FCE9900B63E47 /* SinWave.cpp in Sources */,
 				4F9828D1140A9EB700F3FCC1 /* vstpresetfile.cpp in Sources */,
 				4F9828D2140A9EB700F3FCC1 /* vstrepresentation.cpp in Sources */,
 				4F9828D3140A9EB700F3FCC1 /* vstsinglecomponenteffect.cpp in Sources */,
@@ -2144,19 +2144,18 @@
 			files = (
 				4FB600181567CB0A0020189A /* Rain.cpp in Sources */,
 				4FB600191567CB0A0020189A /* swell-gdi.mm in Sources */,
-				7CBE89B31C7FC72300B63E47 /* SawWave.cpp in Sources */,
 				4FB6001A1567CB0A0020189A /* IPlugBase.cpp in Sources */,
 				5BF127C618F456E9009440AD /* Filter.cpp in Sources */,
 				4FB6001B1567CB0A0020189A /* IPlugStructs.cpp in Sources */,
 				4FB6001C1567CB0A0020189A /* Hosts.cpp in Sources */,
-				7CBE89BD1C7FC82400B63E47 /* SquareWave.cpp in Sources */,
 				4FB6001D1567CB0A0020189A /* IGraphicsMac.mm in Sources */,
+				7CBE89F11C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				4FB6001E1567CB0A0020189A /* IGraphics.cpp in Sources */,
 				4FB6001F1567CB0A0020189A /* IGraphicsCarbon.cpp in Sources */,
 				4FB600201567CB0A0020189A /* IGraphicsCocoa.mm in Sources */,
 				5BF127F418F45E7D009440AD /* VoiceManager.cpp in Sources */,
-				7CBE89A91C7FC37400B63E47 /* SinWave.cpp in Sources */,
 				5BF127EA18F45DDC009440AD /* Voice.cpp in Sources */,
+				7CBE89E11C7FCE9900B63E47 /* SawWave.cpp in Sources */,
 				4FB600211567CB0A0020189A /* Log.cpp in Sources */,
 				4FB600221567CB0A0020189A /* IPopupMenu.cpp in Sources */,
 				4FB600231567CB0A0020189A /* IParam.cpp in Sources */,
@@ -2165,11 +2164,12 @@
 				4FB600251567CB0A0020189A /* IBitmapMonoText.cpp in Sources */,
 				4FB600261567CB0A0020189A /* AAX_Exports.cpp in Sources */,
 				4FB600271567CB0A0020189A /* IPlugAAX.cpp in Sources */,
-				7CBE899F1C7FBA6200B63E47 /* IWave.cpp in Sources */,
+				7CBE89D91C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4FB600281567CB0A0020189A /* IPlugAAX_Describe.cpp in Sources */,
+				7CBE89E91C7FCE9900B63E47 /* SinWave.cpp in Sources */,
 				5B17580F18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
 				5BF1279E18F453D6009440AD /* EnvelopeGenerator.cpp in Sources */,
-				7CBE89C71C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
+				7CBE89F91C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
 				4FB600291567CB0A0020189A /* AAX_CIPlugParameters.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2181,8 +2181,7 @@
 				4FD16CFC13B63468001D0217 /* swell-appstub.mm in Sources */,
 				4FD16D0513B634AA001D0217 /* swell-dlg.mm in Sources */,
 				4FD16D0C13B634BF001D0217 /* swell-gdi.mm in Sources */,
-				7CBE89B81C7FC82400B63E47 /* SquareWave.cpp in Sources */,
-				7CBE89A41C7FC37400B63E47 /* SinWave.cpp in Sources */,
+				7CBE89EC1C7FCE9900B63E47 /* SquareWave.cpp in Sources */,
 				5BF127C118F456E9009440AD /* Filter.cpp in Sources */,
 				4FD16D1613B634D2001D0217 /* swell-ini.cpp in Sources */,
 				4FD16D3A13B63582001D0217 /* swell-kb.mm in Sources */,
@@ -2191,17 +2190,19 @@
 				4FD16D4013B635A0001D0217 /* swell-misc.mm in Sources */,
 				4FD16D4213B635AB001D0217 /* swell-wnd.mm in Sources */,
 				4FD16D4413B635B2001D0217 /* swell.cpp in Sources */,
+				7CBE89E41C7FCE9900B63E47 /* SinWave.cpp in Sources */,
 				4FD16D4713B635C8001D0217 /* swellappmain.mm in Sources */,
 				4F78D8C413B63A700032E0F3 /* RtAudio.cpp in Sources */,
 				4F78D8C513B63A700032E0F3 /* RtMidi.cpp in Sources */,
 				4F78D90A13B63BA50032E0F3 /* IPlugStandalone.cpp in Sources */,
 				4F78D90B13B63BA50032E0F3 /* IPlugBase.cpp in Sources */,
 				4F78D90C13B63BA50032E0F3 /* IPlugStructs.cpp in Sources */,
-				7CBE899A1C7FBA6200B63E47 /* IWave.cpp in Sources */,
+				7CBE89D41C7FCE9900B63E47 /* IWave.cpp in Sources */,
 				4F78D90D13B63BA50032E0F3 /* Hosts.cpp in Sources */,
 				4F78D90F13B63BA50032E0F3 /* IGraphicsMac.mm in Sources */,
+				7CBE89DC1C7FCE9900B63E47 /* SawWave.cpp in Sources */,
+				7CBE89F41C7FCE9900B63E47 /* TriangleWave.cpp in Sources */,
 				4F78D91013B63BA50032E0F3 /* IGraphics.cpp in Sources */,
-				7CBE89C21C7FC8CD00B63E47 /* TriangleWave.cpp in Sources */,
 				4F78D91113B63BA50032E0F3 /* IGraphicsCarbon.cpp in Sources */,
 				4F78D91213B63BA50032E0F3 /* IGraphicsCocoa.mm in Sources */,
 				4F78D91313B63BA50032E0F3 /* Log.cpp in Sources */,
@@ -2218,7 +2219,6 @@
 				5BF127E518F45DDC009440AD /* Voice.cpp in Sources */,
 				5BF127EF18F45E7D009440AD /* VoiceManager.cpp in Sources */,
 				5B17580A18F43AF7004D19B6 /* Oscillator.cpp in Sources */,
-				7CBE89AE1C7FC72300B63E47 /* SawWave.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
