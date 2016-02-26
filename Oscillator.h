@@ -10,6 +10,12 @@
 #define __Rain__Oscillator__
 
 #include <math.h>
+#include <algorithm>
+#include "IWave.hpp"
+#include "SinWave.hpp"
+#include "SawWave.hpp"
+#include "SquareWave.hpp"
+#include "TriangleWave.hpp"
 
 class Oscillator {
 public:
@@ -24,31 +30,15 @@ public:
     void setFrequency(double frequency);
     void setSampleRate(double sampleRate);
     void generate(double* buffer, int nFrames);
-    inline void setMuted(bool muted) { isMuted = muted; }
     double nextSample();
     Oscillator() :
-    mOscillatorMode(OSCILLATOR_MODE_SINE),
-    mPI(2*acos(0.0)),
-    twoPI(2 * mPI),
-    isMuted(true),
-    mFrequency(440.0),
-    mPitchMod(0.0),
-    mPhase(0.0) { updateIncrement(); };
-    
-    void reset() { mPhase = 0.0; }
+    state(new IWave()) { state->updateIncrement(); };
+    ~Oscillator() { delete state; }
+    void reset() { state->reset(); }
     void setPitchMod(double amount);
 private:
+    IWave* state;
     OscillatorMode mOscillatorMode;
-    const double mPI;
-    const double twoPI;
-    bool isMuted;
-    double mFrequency;
-    double mPhase;
-    static double mSampleRate;
-    double mPhaseIncrement;
-    void updateIncrement();
-    
-    double mPitchMod;
 };
 
 #endif /* defined(__Rain__Oscillator__) */

@@ -2,114 +2,66 @@
 //  Oscillator.cpp
 //  Rain
 //
-//  Created by James Tiller on 2/24/16.
+//  Created by James Tiller on 1/1/16.
 //
 //
 
 #include "Oscillator.h"
 
-double Oscillator::mSampleRate = 44100.0;
-
 void Oscillator::setMode(OscillatorMode mode) {
+    if (mode == mOscillatorMode)
+        return;
+    
+    IWave* nextState;
+    
+    switch (mode)
+    {
+        case OSCILLATOR_MODE_SINE:
+            nextState = new SinWave();
+            break;
+        case OSCILLATOR_MODE_SAW:
+            nextState = new SawWave();
+            break;
+        case OSCILLATOR_MODE_SQUARE:
+            nextState = new SquareWave();
+            break;
+        case OSCILLATOR_MODE_TRIANGLE:
+            nextState = new TriangleWave();
+            break;
+        default:
+            nextState = new IWave();
+            break;
+    }
+    
+    nextState->mFrequency = state->mFrequency;
+    nextState->mSampleRate = state->mSampleRate;
+    nextState->mPitchMod = state->mPitchMod;
+    nextState->mPhase = state->mPhase;
+    nextState->mPhaseIncrement = state->mPhaseIncrement;
+    std::swap(state, nextState);
     mOscillatorMode = mode;
+    delete nextState;
 }
 
 void Oscillator::setFrequency(double frequency) {
-    mFrequency = frequency;
-    updateIncrement();
+    state->mFrequency = frequency;
+    state->updateIncrement();
 }
 
 void Oscillator::setSampleRate(double sampleRate) {
-    mSampleRate = sampleRate;
-    updateIncrement();
+    state->mSampleRate = sampleRate;
+    state->updateIncrement();
 }
 
 void Oscillator::generate(double* buffer, int nFrames) {
-    const double twoPI = 2 * mPI;
-    switch (mOscillatorMode) {
-        case OSCILLATOR_MODE_SINE:
-            for (int i = 0; i < nFrames; i++) {
-                buffer[i] = sin(mPhase);
-                mPhase += mPhaseIncrement;
-                while (mPhase >= twoPI) {
-                    mPhase -= twoPI;
-                }
-            }
-            break;
-        case OSCILLATOR_MODE_SAW:
-            for (int i = 0; i < nFrames; i++) {
-                buffer[i] = 1.0 - (2.0 * mPhase / twoPI);
-                mPhase += mPhaseIncrement;
-                while (mPhase >= twoPI) {
-                    mPhase -= twoPI;
-                }
-            }
-            break;
-        case OSCILLATOR_MODE_SQUARE:
-            for (int i = 0; i < nFrames; i++) {
-                if (mPhase <= mPI) {
-                    buffer[i] = 1.0;
-                } else {
-                    buffer[i] = -1.0;
-                }
-                mPhase += mPhaseIncrement;
-                while (mPhase >= twoPI) {
-                    mPhase -= twoPI;
-                }
-            }
-            break;
-        case OSCILLATOR_MODE_TRIANGLE:
-            for (int i = 0; i < nFrames; i++) {
-                double value = -1.0 + (2.0 * mPhase / twoPI);
-                buffer[i] = 2.0 * (fabs(value) - 0.5);
-                mPhase += mPhaseIncrement;
-                while (mPhase >= twoPI) {
-                    mPhase -= twoPI;
-                }
-            }
-            break;
-    }
+    state->generate(buffer, nFrames);
 }
 
 double Oscillator::nextSample() {
-    double value = 0.0;
-    
-    switch (mOscillatorMode) {
-        case OSCILLATOR_MODE_SINE:
-            value = sin(mPhase);
-            break;
-        case OSCILLATOR_MODE_SAW:
-            value = 1.0 - (2.0 * mPhase / twoPI);
-            break;
-        case OSCILLATOR_MODE_SQUARE:
-            if (mPhase <= mPI) {
-                value = 1.0;
-            } else {
-                value = -1.0;
-            }
-            break;
-        case OSCILLATOR_MODE_TRIANGLE:
-            value = -1.0 + (2.0 * mPhase / twoPI);
-            value = 2.0 * (fabs(value) - 0.5);
-            break;
-    }
-    mPhase += mPhaseIncrement;
-    while (mPhase >= twoPI) {
-        mPhase -= twoPI;
-    }
-    return value;
+    return state->nextSample();
 }
 
 void Oscillator::setPitchMod(double amount) {
-    mPitchMod = amount;
-    updateIncrement();
-}
-
-void Oscillator::updateIncrement() {
-    double pitchModAsFrequency = pow(2.0, fabs(mPitchMod) * 14.0) - 1;
-    if (mPitchMod < 0) {
-        pitchModAsFrequency = -pitchModAsFrequency;
-    }
-    double calculatedFrequency = fmin(fmax(mFrequency + pitchModAsFrequency, 0), mSampleRate/2.0);
-    mPhaseIncrement = calculatedFrequency * 2 * mPI / mSampleRate;
+    state->mPitchMod = amount;
+    state->updateIncrement();
 }

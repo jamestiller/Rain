@@ -41,6 +41,11 @@ dependencies: \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../VoiceManager.h \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../Voice.h \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../Oscillator.h \
+  /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../IWave.hpp \
+  /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../SinWave.hpp \
+  /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../SawWave.hpp \
+  /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../SquareWave.hpp \
+  /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../TriangleWave.hpp \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../EnvelopeGenerator.h \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/app_wrapper/../Filter.h \
   /Users/JimboSlice/plugin-development/wdl-ol/IPlugExamples/Rain/../../WDL/swell/swell-dlggen.h \
